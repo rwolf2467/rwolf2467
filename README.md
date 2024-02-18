@@ -13,7 +13,7 @@ I am now a proud developer of a verified Discord bot and developer of other proj
 </div>
 
 ###
-
+## Skils
 <br clear="both">
 
 <div align="center">
@@ -23,10 +23,10 @@ I am now a proud developer of a verified Discord bot and developer of other proj
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
 </div>
 
 ###
+## Social
 
 <div align="center">
   <a href="https://link.pyropixle.com/twitter" target="_blank">
@@ -41,3 +41,8 @@ I am now a proud developer of a verified Discord bot and developer of other proj
 </div>
 
 ###
+
+## Support
+
+For support, email support@pyropixle.com or join our [discord server](https://link.pyropixle.com/discord).
+
