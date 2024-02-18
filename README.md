@@ -5,8 +5,6 @@ I am Red_Wolf2467, 16 years old and I live in Austria. I have been developing an
 I am now a proud developer of a verified Discord bot and developer of other projects such as Qr-Gate and Ember
 
 
-![Logo](http://sparkle2.pyropixle.com:1659/img/red.GIF)
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rwolf2467&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
