@@ -2,7 +2,7 @@
 # Hi, I'm Red_Wolf2467! 👋
 
 I am Red_Wolf2467, 16 years old and I live in Austria. I have been developing and programming for several years and have been fascinated by technology since my childhood.
-I am now a proud developer of a verified Discord bot and developer of other projects such as Qr-Gate and Ember.
+I am now a proud developer of a verified Discord bot and developer of other projects such as Qr-Gate and Ember. I also own the Teams named "PyroPixle" and "SkyFire Hosting".
 
 [PyroPixle Discord](https://link.pyropixle.com/discord)
 
