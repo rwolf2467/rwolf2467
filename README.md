@@ -1,7 +1,7 @@
 
 # Hi, I'm Red_Wolf2467! 👋
 
-I'm Red_wolf2467 but everyone calls me Red. I am 17 years old and live in Austria. I have been programming for several years and work on various projects. <br>
+I'm Red_wolf2467 but everyone calls me Red. I am 18 years old and live in Austria. I have been programming for several years and work on various projects. <br>
 I'm a big fan of the video games Minecraft, Satisfactory, Detroit and Portal. I also enjoy watching the German streamers Thejocraft and Fuxelbau.
 
 ## Stats
